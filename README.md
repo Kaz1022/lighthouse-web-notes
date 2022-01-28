@@ -7,5 +7,6 @@ This repository contains all of the notes taken by [Kaz](https://github.com/Kaz1
 ## Table of Contents 
 * [Week 1](/Week_1) 
   * [Day 1](/Week_1/Day_1)
+  * [Day 3](/Week_1/Day_3)
   
 
