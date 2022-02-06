@@ -13,6 +13,7 @@ This repository contains all of the notes taken by [Kaz](https://github.com/Kaz1
 * [Week 2](/Week_2)
   * [Day 1](/Week_2/Day_1)
   
-  
+* [Week 3](/Week_3)
+  * [Day 1](/Week_3/Day_1)
   
 
