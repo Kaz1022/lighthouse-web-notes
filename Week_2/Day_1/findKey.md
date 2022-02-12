@@ -20,3 +20,12 @@ const findKey = function(inputObject, callbackFn) {
 }
 ```
 
+``` javascript
+const findKey = function(inputObject, callbackFn) {
+  for (const key in inputObject) {
+    if (callbackFn(inputObject[key])) {
+      return key;
+    }
+  }
+};
+```
